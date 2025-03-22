@@ -14,3 +14,7 @@ If you are developing a production application, we recommend using TypeScript an
 # Full-Stack-React-Application
 notesapp
 
+To check out the app go to 
+
+AWS: work : https://us-east-2.console.aws.amazon.com/amplify/apps/dx2va65akfpzf/general
+https://main.dx2va65akfpzf.amplifyapp.com/
