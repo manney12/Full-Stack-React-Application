@@ -17,4 +17,4 @@ notesapp
 To check out the app go to 
 
 AWS: work : https://us-east-2.console.aws.amazon.com/amplify/apps/dx2va65akfpzf/general
-App page : https://main.dx2va65akfpzf.amplifyapp.com/
+App page : https://feature-task2-1.d2fmn1w8zfgqkb.amplifyapp.com/
